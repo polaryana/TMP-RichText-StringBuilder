@@ -31,7 +31,7 @@ Or use the search bar (`Ctrl+K / Cmd+K`) and type **TMP RichText StringBuilder**
 
 The window will open like this:
 
-[TMP RichText StringBuilder Window](docs/images/window.png)  
+![TMP RichText StringBuilder Window](docs/images/window.png)  
 *Visual editor for building rich text strings.*
 
 ---
@@ -57,7 +57,7 @@ Example workflow:
 4. Add a **New Line** for a line break.
 5. Add a **Sprite From Atlas** to insert an icon.
 
-[Adding and Reordering Elements](docs/images/example.png)  
+![Adding and Reordering Elements](docs/images/example.png)  
 *Drag to reorder, use the Add dropdown to add new elements.*
 
 ---
