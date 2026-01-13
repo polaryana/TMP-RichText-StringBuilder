@@ -83,3 +83,9 @@ This string can be pasted directly into a **TextMeshPro** component in your scen
 - Elements that are `null` or removed will be skipped in the final string.
 - Color and sprite elements apply immediately in the visual preview.
 - The window automatically rebuilds the string as you add, remove, or reorder elements.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
