@@ -1,8 +1,8 @@
 {
   "name": "com.polaryana.tmp-richtext-stringbuilder",
   "displayName": "TMP RichText StringBuilder",
-  "version": "1.0.0",
-  "unity": "6000.0.58f2",
+  "version": "1.0.1",
+  "unity": "6000.0",
   "description": "Editor tool for building TextMeshPro rich text strings with colors, sprites and formatting.",
   "author": {
     "name": "polaryana",
